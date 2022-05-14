@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning Vadim Ksendov course
 <!---- 💞️ I’m looking to collaborate on ...--->
-- 📫 adnreysozdatelev@gmail.com
+- 📫 andreysozdatelev@gmail.com
 
 <!---
 EkcTe3u/EkcTe3u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
