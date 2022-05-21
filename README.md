@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EkcTe3u
+- 👋 Hi, I’m Andrey
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning Vadim Ksendzov course
 <!---- 💞️ I’m looking to collaborate on ...--->
