@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EkcTe3u
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning Vadim Ksendov course
+- 🌱 I’m currently learning Vadim Ksendzov course
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 andreysozdatelev@gmail.com
 
